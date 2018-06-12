@@ -1,0 +1,10 @@
+$ git config --global user.name "yourname"
+$ git config --global user.email "your email"
+$ git init
+$ git status
+$ git add .
+$ git add name
+$ git commit -m"message"
+$ git log
+$ git remote add origin<link>
+$ git push -u origin master
